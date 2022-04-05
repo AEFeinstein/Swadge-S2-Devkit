@@ -5844,7 +5844,7 @@
   (symbol (lib_id "Swadge_Parts:R_US") (at 153.67 161.29 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 0f4eeffc-7c39-465b-969c-dab74e9842da)
-    (property "Reference" "R?" (id 0) (at 162.56 161.29 90))
+    (property "Reference" "R22" (id 0) (at 162.56 161.29 90))
     (property "Value" "10kΩ" (id 1) (at 162.56 160.02 90))
     (property "Footprint" "Swadge_Parts:R_0603_1608Metric" (id 2) (at 153.924 160.274 90)
       (effects (font (size 1.27 1.27)) hide)
@@ -5902,7 +5902,7 @@
   (symbol (lib_id "Swadge_Parts:GND") (at 149.86 173.99 270) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 11e0be04-4e70-472c-83ff-1da90750bc96)
-    (property "Reference" "#PWR?" (id 0) (at 143.51 173.99 0)
+    (property "Reference" "#PWR0118" (id 0) (at 143.51 173.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 146.05 173.99 0))
@@ -6070,7 +6070,7 @@
   (symbol (lib_id "Swadge_Parts:R_US") (at 92.71 163.83 270) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 1c23f8e0-280c-4d0e-9b99-aac1f8b03251)
-    (property "Reference" "R?" (id 0) (at 96.52 161.29 90))
+    (property "Reference" "R13" (id 0) (at 96.52 161.29 90))
     (property "Value" "33Ω" (id 1) (at 92.71 160.9344 90))
     (property "Footprint" "Swadge_Parts:R_0603_1608Metric" (id 2) (at 92.456 164.846 90)
       (effects (font (size 1.27 1.27)) hide)
@@ -6113,7 +6113,7 @@
   (symbol (lib_id "Swadge_Parts:Conn_01x02_Male") (at 129.54 166.37 270) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 1d4c44ee-24ee-4e47-8edc-8598643844dc)
-    (property "Reference" "J?" (id 0) (at 131.6482 163.6303 90)
+    (property "Reference" "J1" (id 0) (at 131.6482 163.6303 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "CurrentMonitor" (id 1) (at 123.19 161.29 90)
@@ -6209,7 +6209,7 @@
   (symbol (lib_id "Swadge_Parts:L") (at 161.29 181.61 270) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 213f2e15-5918-4dfb-95c9-846d06d16520)
-    (property "Reference" "L?" (id 0) (at 161.29 180.34 90))
+    (property "Reference" "L3" (id 0) (at 161.29 180.34 90))
     (property "Value" "2.2uH" (id 1) (at 161.29 184.15 90))
     (property "Footprint" "Swadge_Parts:L_0603_1608Metric" (id 2) (at 161.29 181.61 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -6978,7 +6978,7 @@
   (symbol (lib_id "Swadge_Parts:Battery") (at 140.97 189.23 270) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 4f77388d-b9d0-4512-8c08-99b0c79a19a3)
-    (property "Reference" "BT?" (id 0) (at 140.97 194.31 90))
+    (property "Reference" "BT3" (id 0) (at 140.97 194.31 90))
     (property "Value" "Battery" (id 1) (at 140.97 192.405 90))
     (property "Footprint" "Swadge_Parts:2460" (id 2) (at 152.4 181.61 90)
       (effects (font (size 1.27 1.27)) hide)
@@ -7064,7 +7064,7 @@
   (symbol (lib_id "Swadge_Parts:USB_C_Plug_USB2.0") (at 85.09 185.42 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 51601e67-514c-4451-9a6d-296311e33e63)
-    (property "Reference" "P?" (id 0) (at 107.95 176.53 90)
+    (property "Reference" "P1" (id 0) (at 107.95 176.53 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "USB_C_Plug_USB2.0" (id 1) (at 110.49 172.72 90)
@@ -7479,7 +7479,7 @@
   (symbol (lib_id "Swadge_Parts:GND") (at 158.75 162.56 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 6c231254-6d48-42d4-b0f3-86e1de5d8b08)
-    (property "Reference" "#PWR?" (id 0) (at 158.75 168.91 0)
+    (property "Reference" "#PWR0117" (id 0) (at 158.75 168.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 162.56 165.1 0))
@@ -7685,7 +7685,7 @@
   (symbol (lib_id "Swadge_Parts:R_US") (at 92.71 166.37 270) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 7fb36b86-4780-428d-86d2-7c8b0ffaebde)
-    (property "Reference" "R?" (id 0) (at 92.71 168.91 90))
+    (property "Reference" "R14" (id 0) (at 92.71 168.91 90))
     (property "Value" "33Ω" (id 1) (at 96.52 168.91 90))
     (property "Footprint" "Swadge_Parts:R_0603_1608Metric" (id 2) (at 92.456 167.386 90)
       (effects (font (size 1.27 1.27)) hide)
@@ -7865,7 +7865,7 @@
   (symbol (lib_id "Swadge_Parts:GND") (at 66.04 163.83 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 8fe33eb3-c258-4c76-b399-7b7f5e501986)
-    (property "Reference" "#PWR?" (id 0) (at 66.04 170.18 0)
+    (property "Reference" "#PWR0116" (id 0) (at 66.04 170.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 66.04 167.64 0))
@@ -7897,7 +7897,7 @@
   (symbol (lib_id "Swadge_Parts:GND") (at 152.4 193.04 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 906fd32e-86cf-4c71-8f53-d7341644c029)
-    (property "Reference" "#PWR?" (id 0) (at 152.4 199.39 0)
+    (property "Reference" "#PWR0115" (id 0) (at 152.4 199.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 156.21 195.58 0))
@@ -8169,7 +8169,7 @@
   (symbol (lib_id "Swadge_Parts:R_US") (at 147.32 165.1 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 9e035b70-c3ec-4ebe-9753-392a39401e74)
-    (property "Reference" "R?" (id 0) (at 149.86 163.8299 0)
+    (property "Reference" "R21" (id 0) (at 149.86 163.8299 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "43kΩ" (id 1) (at 149.86 166.3699 0)
@@ -8434,7 +8434,7 @@
   (symbol (lib_id "Swadge_Parts:R_US") (at 166.37 166.37 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid ad90d8bd-6ca1-4ef3-afd7-d50fcb90cda5)
-    (property "Reference" "R?" (id 0) (at 168.91 165.0999 0)
+    (property "Reference" "R24" (id 0) (at 168.91 165.0999 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10kΩ" (id 1) (at 168.91 167.6399 0)
@@ -8592,7 +8592,7 @@
   (symbol (lib_id "Swadge_Parts:R_US") (at 166.37 176.53 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid b47fdf8b-a2d5-40fc-8b99-929b54a929d0)
-    (property "Reference" "R?" (id 0) (at 168.91 175.2599 0)
+    (property "Reference" "R25" (id 0) (at 168.91 175.2599 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "43kΩ" (id 1) (at 168.91 177.7999 0)
@@ -8762,7 +8762,7 @@
   (symbol (lib_id "Swadge_Parts:C") (at 152.4 189.23 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid bc6105a6-98e3-4d4b-8247-721f000ae74f)
-    (property "Reference" "C?" (id 0) (at 156.21 187.9599 0)
+    (property "Reference" "C7" (id 0) (at 156.21 187.9599 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "22μF" (id 1) (at 156.21 190.4999 0)
@@ -9157,7 +9157,7 @@
   (symbol (lib_id "Swadge_Parts:M3410") (at 156.21 173.99 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid e751a295-f4a9-468a-8a26-953320ee632f)
-    (property "Reference" "U?" (id 0) (at 156.21 166.531 0))
+    (property "Reference" "U3" (id 0) (at 156.21 166.531 0))
     (property "Value" "MT3410" (id 1) (at 156.21 169.0679 0))
     (property "Footprint" "Swadge_Parts:SOT-23-5" (id 2) (at 156.21 163.83 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -9697,17 +9697,17 @@
     (path "/a98fe911-982c-475c-8e68-d1ec81fa79dd"
       (reference "#PWR0114") (unit 1) (value "GND") (footprint "")
     )
-    (path "/11e0be04-4e70-472c-83ff-1da90750bc96"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/6c231254-6d48-42d4-b0f3-86e1de5d8b08"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    (path "/906fd32e-86cf-4c71-8f53-d7341644c029"
+      (reference "#PWR0115") (unit 1) (value "GND") (footprint "")
     )
     (path "/8fe33eb3-c258-4c76-b399-7b7f5e501986"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+      (reference "#PWR0116") (unit 1) (value "GND") (footprint "")
     )
-    (path "/906fd32e-86cf-4c71-8f53-d7341644c029"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    (path "/6c231254-6d48-42d4-b0f3-86e1de5d8b08"
+      (reference "#PWR0117") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/11e0be04-4e70-472c-83ff-1da90750bc96"
+      (reference "#PWR0118") (unit 1) (value "GND") (footprint "")
     )
     (path "/acedd649-37ab-44a6-a0b4-1600f9fa8f69"
       (reference "BT1") (unit 1) (value "Battery") (footprint "Swadge_Parts:2460")
@@ -9716,7 +9716,7 @@
       (reference "BT2") (unit 1) (value "Battery") (footprint "Swadge_Parts:2460")
     )
     (path "/4f77388d-b9d0-4512-8c08-99b0c79a19a3"
-      (reference "BT?") (unit 1) (value "Battery") (footprint "Swadge_Parts:2460")
+      (reference "BT3") (unit 1) (value "Battery") (footprint "Swadge_Parts:2460")
     )
     (path "/afffa2fc-ac6b-44c3-9126-a24f2956c264"
       (reference "BTN1") (unit 1) (value "BLISTER_SILICONE_BUTTON") (footprint "Swadge_Parts:BTC007_Button_Silicone")
@@ -9738,6 +9738,9 @@
     )
     (path "/b1f44664-fad0-46cb-94bd-2a6140b3aa9f"
       (reference "C6") (unit 1) (value "1μF") (footprint "Swadge_Parts:C_0603_1608Metric")
+    )
+    (path "/bc6105a6-98e3-4d4b-8247-721f000ae74f"
+      (reference "C7") (unit 1) (value "22μF") (footprint "Swadge_Parts:C_0603_1608Metric")
     )
     (path "/a0269b4f-933f-404d-b7d1-7a03001aef0e"
       (reference "C8") (unit 1) (value "22μF") (footprint "Swadge_Parts:C_0603_1608Metric")
@@ -9766,9 +9769,6 @@
     (path "/5d15c7b9-d551-4551-9776-72a999602a2e"
       (reference "C17") (unit 1) (value "10μF") (footprint "Swadge_Parts:C_0603_1608Metric")
     )
-    (path "/bc6105a6-98e3-4d4b-8247-721f000ae74f"
-      (reference "C?") (unit 1) (value "22μF") (footprint "Swadge_Parts:C_0603_1608Metric")
-    )
     (path "/1b85da2e-0474-4ad9-83aa-5bd38c54bdf1"
       (reference "D1") (unit 1) (value "WS2812B") (footprint "Swadge_Parts:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
     )
@@ -9796,6 +9796,9 @@
     (path "/bd761f51-a357-4c4f-bb3e-369e2442d8ac"
       (reference "D9") (unit 1) (value "D") (footprint "Swadge_Parts:D_SMA")
     )
+    (path "/1d4c44ee-24ee-4e47-8edc-8598643844dc"
+      (reference "J1") (unit 1) (value "CurrentMonitor") (footprint "Swadge_Parts:PinHeader_1x02_P2.54mm_Vertical")
+    )
     (path "/ee264250-84fc-4360-baaf-3a282737c954"
       (reference "J2") (unit 1) (value "DEBUG_BANK_C") (footprint "Swadge_Parts:PinHeader_2x07_P2.54mm_Vertical")
     )
@@ -9811,9 +9814,6 @@
     (path "/312bb836-549f-41e7-9e03-466341a7fc0a"
       (reference "J6") (unit 1) (value "TRYMIC") (footprint "Swadge_Parts:PinSocket_1x02_P2.54mm_Vertical")
     )
-    (path "/1d4c44ee-24ee-4e47-8edc-8598643844dc"
-      (reference "J?") (unit 1) (value "CurrentMonitor") (footprint "Swadge_Parts:PinHeader_1x02_P2.54mm_Vertical")
-    )
     (path "/47e06e2b-b6ec-42ec-be9b-f88df0a367bf"
       (reference "L1") (unit 1) (value "2.2uH") (footprint "Swadge_Parts:L_0603_1608Metric")
     )
@@ -9821,7 +9821,7 @@
       (reference "L2") (unit 1) (value "100uH") (footprint "Swadge_Parts:L_0805_2012Metric")
     )
     (path "/213f2e15-5918-4dfb-95c9-846d06d16520"
-      (reference "L?") (unit 1) (value "2.2uH") (footprint "Swadge_Parts:L_0603_1608Metric")
+      (reference "L3") (unit 1) (value "2.2uH") (footprint "Swadge_Parts:L_0603_1608Metric")
     )
     (path "/14c9349a-f0fb-4244-9f6f-4c73e3e70cf2"
       (reference "LS1") (unit 1) (value "Buzzer") (footprint "Swadge_Parts:Buzzer_12x9.5RM7.6")
@@ -9833,7 +9833,7 @@
       (reference "MK1") (unit 1) (value "Microphone") (footprint "Swadge_Parts:CMA-4544PF-W")
     )
     (path "/51601e67-514c-4451-9a6d-296311e33e63"
-      (reference "P?") (unit 1) (value "USB_C_Plug_USB2.0") (footprint "Swadge_Parts:USB_C_Receptacle_HRO_TYPE-C-31-M-12")
+      (reference "P1") (unit 1) (value "USB_C_Plug_USB2.0") (footprint "Swadge_Parts:USB_C_Receptacle_HRO_TYPE-C-31-M-12")
     )
     (path "/9c547d9d-6128-4f19-8fb2-b7510202ae22"
       (reference "Q1") (unit 1) (value "Q_N_FET") (footprint "Swadge_Parts:SOT-23")
@@ -9883,6 +9883,12 @@
     (path "/86231590-30db-4b87-af9f-3acb0c71ef5a"
       (reference "R12") (unit 1) (value "47Ω") (footprint "Swadge_Parts:R_0603_1608Metric")
     )
+    (path "/1c23f8e0-280c-4d0e-9b99-aac1f8b03251"
+      (reference "R13") (unit 1) (value "33Ω") (footprint "Swadge_Parts:R_0603_1608Metric")
+    )
+    (path "/7fb36b86-4780-428d-86d2-7c8b0ffaebde"
+      (reference "R14") (unit 1) (value "33Ω") (footprint "Swadge_Parts:R_0603_1608Metric")
+    )
     (path "/085df7ee-668f-4f79-891b-a20091d26878"
       (reference "R15") (unit 1) (value "680Ω") (footprint "Swadge_Parts:R_0603_1608Metric")
     )
@@ -9901,26 +9907,20 @@
     (path "/96bb47ce-4ea9-4944-b71c-f184038be353"
       (reference "R20") (unit 1) (value "680Ω") (footprint "Swadge_Parts:R_0603_1608Metric")
     )
+    (path "/9e035b70-c3ec-4ebe-9753-392a39401e74"
+      (reference "R21") (unit 1) (value "43kΩ") (footprint "Swadge_Parts:R_0603_1608Metric")
+    )
+    (path "/0f4eeffc-7c39-465b-969c-dab74e9842da"
+      (reference "R22") (unit 1) (value "10kΩ") (footprint "Swadge_Parts:R_0603_1608Metric")
+    )
     (path "/416c86c7-0f8b-4df5-b309-4adcf4d2702b"
       (reference "R23") (unit 1) (value "10Ω") (footprint "Swadge_Parts:R_0603_1608Metric")
     )
-    (path "/0f4eeffc-7c39-465b-969c-dab74e9842da"
-      (reference "R?") (unit 1) (value "10kΩ") (footprint "Swadge_Parts:R_0603_1608Metric")
-    )
-    (path "/1c23f8e0-280c-4d0e-9b99-aac1f8b03251"
-      (reference "R?") (unit 1) (value "33Ω") (footprint "Swadge_Parts:R_0603_1608Metric")
-    )
-    (path "/7fb36b86-4780-428d-86d2-7c8b0ffaebde"
-      (reference "R?") (unit 1) (value "33Ω") (footprint "Swadge_Parts:R_0603_1608Metric")
-    )
-    (path "/9e035b70-c3ec-4ebe-9753-392a39401e74"
-      (reference "R?") (unit 1) (value "43kΩ") (footprint "Swadge_Parts:R_0603_1608Metric")
-    )
     (path "/ad90d8bd-6ca1-4ef3-afd7-d50fcb90cda5"
-      (reference "R?") (unit 1) (value "10kΩ") (footprint "Swadge_Parts:R_0603_1608Metric")
+      (reference "R24") (unit 1) (value "10kΩ") (footprint "Swadge_Parts:R_0603_1608Metric")
     )
     (path "/b47fdf8b-a2d5-40fc-8b99-929b54a929d0"
-      (reference "R?") (unit 1) (value "43kΩ") (footprint "Swadge_Parts:R_0603_1608Metric")
+      (reference "R25") (unit 1) (value "43kΩ") (footprint "Swadge_Parts:R_0603_1608Metric")
     )
     (path "/1ebd1284-8eb5-4950-988c-a5e7f6ee0c58"
       (reference "SW1") (unit 1) (value "4-1437565-2") (footprint "Swadge_Parts:SW_4-1437565-2")
@@ -9961,6 +9961,9 @@
     (path "/2ff9d7a6-b249-453e-b010-e44f393ca31d"
       (reference "U2") (unit 1) (value "BUS_PCIexpress") (footprint "Swadge_Parts:BUS_PCIexpress")
     )
+    (path "/e751a295-f4a9-468a-8a26-953320ee632f"
+      (reference "U3") (unit 1) (value "MT3410") (footprint "Swadge_Parts:SOT-23-5")
+    )
     (path "/f9f17bea-309b-45e3-9fe2-ccc68e76b91f"
       (reference "U4") (unit 1) (value "GS321-TR") (footprint "Swadge_Parts:SOT-23-5")
     )
@@ -9975,9 +9978,6 @@
     )
     (path "/252bc5b3-e6c2-4fe1-957b-d72a2a88ac2c"
       (reference "U8") (unit 1) (value "TFT_DISPLAY") (footprint "Swadge_Parts:NULL")
-    )
-    (path "/e751a295-f4a9-468a-8a26-953320ee632f"
-      (reference "U?") (unit 1) (value "MT3410") (footprint "Swadge_Parts:SOT-23-5")
     )
   )
 )
