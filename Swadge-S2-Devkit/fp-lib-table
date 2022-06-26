@@ -1,3 +1,4 @@
 (fp_lib_table
+  (lib (name "Swadge-S2-Devkit")(type KiCad)(uri "$(KIPRJMOD)/Swadge-S2-Devkit.pretty")(options "")(descr ""))
   (lib (name "Swadge_Parts")(type "KiCad")(uri "${KIPRJMOD}/../Swadge-Parts/Swadge_Parts.pretty")(options "")(descr ""))
 )
